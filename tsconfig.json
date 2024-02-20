@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "types": ["vite/client"],
+    "rootDir": ".",
     "baseUrl": "./src",
     "paths": {
       "@/*": [
